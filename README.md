@@ -18,22 +18,18 @@
 
  ### Languages and Tools
 
-<img align="left" alt="SQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Looker" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/Looker_logo.png" />
-<img align="left" alt="MSSQL" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/MSSQL.png" />
-
-<br />
-
-<img align="left" alt="Oracle" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/Oracle_SQL.png" />
-<img align="left" alt="R" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/RLogo.png" />
-<img align="left" alt="Rstudio" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/RStudio.png" />
-<img align="left" alt="Python" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/python.png" />
-<img align="left" alt="Snowflake" width="52px" src="https://github.com/patrickA25/patrickA25/blob/assets/snowflake.png" />
-
-<img align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Looker" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/Looker_logo.png" />
+<img align="left" alt="MSSQL" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/MSSQL.png" />
+<img align="left" alt="Oracle" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/Oracle_SQL.png" />
+<img align="left" alt="R" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/RLogo.png" />
+<img align="left" alt="Rstudio" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/RStudio.png" />
+<img align="left" alt="Python" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/python.png" />
+<img align="left" alt="Snowflake" width="48px" src="https://github.com/patrickA25/patrickA25/blob/assets/snowflake.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 
