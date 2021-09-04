@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Everything 
 - 👯 I’m looking to collaborate with other data scientest and developers
 - ✨ 2021 Goals: Work out everyday this year, contribute to a github project.
-- ⚡ Fun fact: I love to cook, and I built my own desk.
-
+- ⚡ Fun fact: I love to cook, and I am a productivity nerd.
 <br />
 
 ## Connect with me:
