@@ -9,9 +9,9 @@
 <br />
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="payers | LinkedIn" width="22px" src="https://github.com/patrickA25/patrickA25/blob/assets/linkedin.png" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="payers | Instagram" width="22px" src="https://github.com/patrickA25/patrickA25/blob/assets/insta.png" />][instagram]
 
 <br />
 
