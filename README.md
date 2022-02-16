@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a project with data with NOAA.
 - 🌱 I’m currently learning Everything 
 - 👯 I’m looking to collaborate with other data scientest and developers
-- ✨ 2022 Goals: Work out everyday this year, contribute to a github project.Finish my Masters of Data Science
+- ✨ 2022 Goals:Contribute to a github project and finish my Masters of Data Science
 - ⚡ Fun fact: I love to cook, and I am a productivity nerd.
 <br />
 
