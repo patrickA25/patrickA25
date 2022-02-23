@@ -34,7 +34,13 @@
 <br />
 
 ## Great Books to Read 📚
----
+* An Introduction to Statistical Learning [Amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/ref=sr_1_1?keywords=an+introduction+to+statistical+learning&qid=1645586347&sprefix=an+introduction+to+statistical+lear%2Caps%2C149&sr=8-1)
+* Applied Predictive modeling [Amazon](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?crid=PDCP0G3ZO99X&keywords=applied+predictive+modeling&qid=1645586452&sprefix=applied+predictive+modeling%2Caps%2C137&sr=8-1)
+* Statistics an Introduction using R [Amazon](https://www.amazon.com/Statistics-Introduction-Michael-J-Crawley/dp/1118941098/ref=sr_1_2?keywords=statistics+an+introduction+using+r&qid=1645586501&sprefix=statistics+an+%2Caps%2C145&sr=8-2)
+* R for Data Science [Amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_19?crid=1H3B728WNHIGR&keywords=r+from+data&qid=1645586540&sprefix=r+for+data%2Caps%2C177&sr=8-19)
+* Python Data Science handbook [Amazon](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?crid=2VX63UOIM5OJ4&keywords=python+for+data+science&qid=1645586573&sprefix=python+for+data+science%2Caps%2C136&sr=8-1)
+* Practical Data Science With R [Amazon](https://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617295876/ref=sr_1_1?crid=24VLKYQMU3N3R&keywords=practical+data+science+with+R&qid=1645586644&sprefix=practical+data+science+with+r%2Caps%2C134&sr=8-1)
+* Deep Learning with Python [Amazon](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_4?crid=E9Z5GXYDKBT2&keywords=deep+learning+with+Python&qid=1645586713&sprefix=deep+learning+with+python%2Caps%2C139&sr=8-4)
 
 
 
