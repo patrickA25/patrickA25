@@ -33,7 +33,7 @@
 <br />
 <br />
 
-## Great Books to Read 📚
+## Great Books for Data Science and Statistics 📚
 * An Introduction to Statistical Learning [Amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/ref=sr_1_1?keywords=an+introduction+to+statistical+learning&qid=1645586347&sprefix=an+introduction+to+statistical+lear%2Caps%2C149&sr=8-1)
 * Applied Predictive modeling [Amazon](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?crid=PDCP0G3ZO99X&keywords=applied+predictive+modeling&qid=1645586452&sprefix=applied+predictive+modeling%2Caps%2C137&sr=8-1)
 * Statistics an Introduction using R [Amazon](https://www.amazon.com/Statistics-Introduction-Michael-J-Crawley/dp/1118941098/ref=sr_1_2?keywords=statistics+an+introduction+using+r&qid=1645586501&sprefix=statistics+an+%2Caps%2C145&sr=8-2)
