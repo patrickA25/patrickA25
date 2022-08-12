@@ -42,6 +42,7 @@
 * Practical Data Science With R [Amazon](https://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617295876/ref=sr_1_1?crid=24VLKYQMU3N3R&keywords=practical+data+science+with+R&qid=1645586644&sprefix=practical+data+science+with+r%2Caps%2C134&sr=8-1)
 * Deep Learning with Python [Amazon](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_4?crid=E9Z5GXYDKBT2&keywords=deep+learning+with+Python&qid=1645586713&sprefix=deep+learning+with+python%2Caps%2C139&sr=8-4)
 
+just adding a line
 
 
 <br />
