@@ -1,11 +1,12 @@
-### Hi there, I am Patrick - aka [patrickA25][website] 👋
+![Header](./pngs/github-header-image.png)
+<!-- ### Hi there, I am Patrick - aka [patrickA25][website] 👋 -->
 
-## I'm a Husband,Data Scientest, and a Teacher!
-- 🔭 I’m currently working on a project with data with NOAA.
-- 🌱 I’m currently learning Everything 
-- 👯 I’m looking to collaborate with other data scientest and developers
-- ✨ 2022 Goals:Contribute to a github project and finish my Masters of Data Science
-- ⚡ Fun fact: I love to cook, and I am a productivity nerd.
+## I'm a Husband, Data Scientist, and a Teacher!
+- 🔭 I’m currently working on a presentation explaining how generative AI works and use cases for dietitians.
+- 🌱 I’m currently learning about LLM, AI and how to incorporate them into my workflow. 
+- 👯 I’m looking to collaborate with other data scientists and developers
+- ✨ 2024 Goals: Contribute to a GitHub project and continue to expand my understanding of LLM and AI
+- ⚡ Fun fact: I love to cook and am a productivity nerd.
 <br />
 
 ## Connect with me:
