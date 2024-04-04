@@ -1,4 +1,4 @@
-![Header](./pngs/Untitled_Project_V2.gif)
+![Header](./pngs/github-header-image.png)
 <!-- ### Hi there, I am Patrick - aka [patrickA25][website] 👋 -->
 
 ## I'm a Husband, Data Scientist, and a Teacher!
