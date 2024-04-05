@@ -3,9 +3,7 @@
 ![Header](https://github.com/patrickA25/patrickA25/assets/41715581/3e45e635-fd85-46cf-8cb9-2f6345c6769e)
 
 ## I'm a Husband, Data Scientist, and a Teacher!
-- 🔭 I’m current!
-ly working on a presentati![Uploading Untitled_Project_V1-ezgif.com-crop.gif…]()
-on explaining how generative AI works and use cases for dietitians.
+- 🔭 I’m currently working on a presentation explaining how generative AI works and use cases for dietitians.
 - 🌱 I’m currently learning about LLM, AI and how to incorporate them into my workflow. 
 - 👯 I’m looking to collaborate with other data scientists and developers
 - ✨ 2024 Goals: Contribute to a GitHub project and continue to expand my understanding of LLM and AI
